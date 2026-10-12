@@ -1,0 +1,2 @@
+# DevOpsCoreIntroRepo
+Devops Trainig
